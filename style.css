@@ -1,0 +1,57 @@
+:root {
+  background-color: #b7c9d463;
+  font-family: 'Roboto', sans-serif;
+}
+
+#masterBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* .fundoFoto {
+  background: #f5888a;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  position: relative;
+} */
+
+a {
+  text-decoration: none;
+}
+
+#name {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 2.5rem;
+  letter-spacing: 10;
+  color: #cd8c89;
+
+  /* margin-top: -60px; */
+}
+
+.indiceName {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-weight: bold;
+  font-size: x-large;
+  color: #ab9d97;
+  padding-bottom: 10%;
+}
+#sobreMim,
+#habilidades,
+#minhasRedes,
+#minhasInfluencias {
+  color: #b4855c;
+}
+.textIndice {
+  font-size: large;
+  color: #963527;
+}
+li,
+p,
+.colorText {
+  color: #a8bdbb;
+  font-size: large;
+}
